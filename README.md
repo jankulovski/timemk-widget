@@ -13,3 +13,5 @@
 ## Забелешка:
 
 Авторот на додатокот не превзема никаква одговорност околу содржината прикажана преку виџетот. `TIME.mk Widget` само го олеснува додавањето и уредувањето на Time.mk виџетот кој е оригинално објавен на [time.mk/topic/widgetpage](http://www.time.mk/topic/widgetpage).
+
+* [FAQ](https://github.com/Kuzmanov/timemk-widget/wiki/FAQ)
