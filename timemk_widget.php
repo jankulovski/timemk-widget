@@ -211,8 +211,8 @@ class TIMEMK_Widget extends WP_Widget {
 		<strong>Тип:</strong>
 		<p>
 		<select name="<?php echo $this->get_field_name('tip'); ?>" id="<?php echo $this->get_field_id('tip'); ?>" class="widefat" id="tipWidget"> 
-			<option <?php selected('Вертикален', $instance['kategorija'], true); ?> value="Вертикален">Вертикален</option>
-			<option <?php selected('Хоризонтален', $instance['kategorija'], true); ?> value="Хоризонтален">Хоризонтален</option>
+			<option <?php selected('Вертикален', $instance['tip'], true); ?> value="Вертикален">Вертикален</option>
+			<option <?php selected('Хоризонтален', $instance['tip'], true); ?> value="Хоризонтален">Хоризонтален</option>
 		</select>
 		</p>
 		
